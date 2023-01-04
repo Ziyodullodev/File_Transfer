@@ -1,0 +1,4 @@
+colorama==0.4.6
+modeltranslation==0.25
+sockets==1.0.0
+tqdm==4.64.1
